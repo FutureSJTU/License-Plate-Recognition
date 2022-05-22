@@ -539,8 +539,6 @@ https://www.runoob.com/python/python-tk-frame.html
 
 [15]基于灰度边缘和车牌颜色对的车牌定位[J]. 王钰淞.  信息与电脑(理论版). 2012(02)
 
-## [16]基于深度学习高性能中文车牌识别 High Performance Chinese License Plate RecognitionFramework.[OL].[szad670401](https://github.com/szad670401)/[HyperLPR](https://github.com/szad670401/HyperLPR)https://github.com/szad670401/HyperLPR
-
  
 
  
